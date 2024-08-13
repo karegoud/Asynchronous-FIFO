@@ -1,5 +1,5 @@
 # Asynchronous-FIFO
-1.asyncfifo.v is a top level module in which all sub module are instantiated.
+1.asyncfifo.v is a top level module in which all sub module are instantiated.<br>
 2.fifmem.v is a fifo memory buffer which is a dual pot RAM.
 3.r2w_sync.v file has code for synchronising read pointer to write clock domain.
 4.w2r_sync.v file has code for synchronising write pointer to read clock domain.
