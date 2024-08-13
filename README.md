@@ -6,3 +6,6 @@
 5.rptr_empty.v contains logic to generate empty signal based on read pointer and synchronised write pointer.<br>
 6.wptr_full.v contains logic to generate full signal based on write pointer and synchronised read pointer.<br>
 7.tb_async_fifo.v is testbench used for verifying the design of asynchrounous fifo.<br>
+![image](https://github.com/user-attachments/assets/ea536b55-6eab-48ab-aac5-1f11efb9f76a)
+This image will give an overall idea how Asynchrounous FIFO works and how verilog files are interdependent.
+
