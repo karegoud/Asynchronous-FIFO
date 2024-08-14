@@ -1,5 +1,5 @@
 # Asynchronous-FIFO
-*** Results can be found in AsynchFIFO_Results.pdf file
+*** Results can be found in AsynchFIFO_Results.pdf file <br>
 1.asyncfifo.v is a top level module in which all sub module are instantiated.<br>
 2.fifmem.v is a fifo memory buffer which is a dual pot RAM.<br>
 3.r2w_sync.v file has code for synchronising read pointer to write clock domain.<br>
